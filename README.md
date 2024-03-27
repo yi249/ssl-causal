@@ -1,2 +1,1 @@
-# ssl-causal
-Semi-Supervised Deep Causal Generative Model
+# Semi-Supervised Deep Causal Generative Model
