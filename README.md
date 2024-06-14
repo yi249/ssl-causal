@@ -55,7 +55,7 @@ Hyperparameters can be edited in the ```/src/hps.py``` file. These include:
 
 ### Example Outputs
 
-<img src="figures/mimic_cfs.svg" height="250"> <img src="figures/mnist.svg" height="250">
+<img src="plots/mimic_cfs.svg" height="250"> <img src="plots/mnist.svg" height="250">
 
 ### Acknowledgements
 Code for the generative model is adapted from:
