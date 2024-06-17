@@ -1,5 +1,7 @@
 # Causal SSL
 
+This work has been accepted to MICCAI 2024.
+
 ### Introduction
 When citing this research, please use:
 ```
@@ -26,7 +28,7 @@ To train the generative model, navigate to the ```/src``` folder and run:
 bash run_local.sh experiment_name
 ```
 
-By default, this is set to use the coloured Morpho-MNIST data as described in the paper. To generate new semi-synthetic data with custom relationships between the variables, edit or create a new colour generator function in the ```mnist.py``` file in the main directory, and then run:
+By default, this is set to use the coloured Morpho-MNIST data as described in the paper. To generate new semi-synthetic data with custom relationships between the variables, edit or create a new colour generator function in the ```colour_mnist.py``` file in the main directory, and then run:
 ```
 python mnist.py [-h] [--size No. labelled samples] [--random Random labelling]
 ```
