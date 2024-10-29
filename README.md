@@ -1,21 +1,20 @@
 # Causal SSL
 
-This work has been accepted to MICCAI 2024.
+This work was presented at MICCAI 2024.
 
 ### Introduction
 When citing this research, please use:
 ```
-@misc{ibrahim2024semisupervised,
-      title={Semi-Supervised Learning for Deep Causal Generative Models}, 
-      author={Yasin Ibrahim and Hermione Warr and Konstantinos Kamnitsas},
-      year={2024},
-      eprint={2403.18717},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@inproceedings{ibrahim2024semisupervised,
+  title={Semi-supervised learning for deep causal generative models},
+  author={Ibrahim, Yasin and Warr, Hermione and Kamnitsas, Konstantinos},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={294--303},
+  year={2024},
+  organization={Springer}
 }
 ```
-Ibrahim, Y., Warr, H., Kamnitsas, K.: Semi-Supervised Learning for Deep Causal Generative Models. arXiv preprint arXiv:2403.18717 (2024)
-
+Ibrahim, Y., Warr, H. and Kamnitsas, K., 2024, October. Semi-supervised learning for deep causal generative models. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 294-303). Cham: Springer Nature Switzerland.
 
 ### Running Code
 To install the required packages, run:
